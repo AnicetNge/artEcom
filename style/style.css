@@ -752,4 +752,5 @@ section#temoignages{
     justify-content: center;
     align-items: center;
 }
+ .nomobile{display:"none";}
 }
