@@ -6,13 +6,9 @@ const layer=document.querySelector("div#layer")
 
 /* chargement et layer */
 
-window.addEventListener("load",function(){
-
-    timeout=this.setTimeout(function(){
+window.addEventListener("DOMContentLoaded",function(){
         layer.style.opacity=0
         layer.style.display="none"
-        clearTimeout(timeout)
-    },2000)
     document.querySelectorAll("div.indicator")[3].click()
 
 })
