@@ -429,6 +429,7 @@ section#galerie{
     max-width:800px ;
     height: 600px;
     padding: 0px 100px;
+    margin: 0 auto;
     margin-top: 150px;
     display: flex;
     flex-direction: column;
