@@ -6,7 +6,7 @@ const layer=document.querySelector("div#layer")
 
 /* chargement et layer */
 
-window.addEventListener("DOMContentLoaded",function(){
+window.addEventListener("loaded",function(){
         layer.style.opacity=0
         layer.style.display="none"
     document.querySelectorAll("div.indicator")[3].click()
