@@ -426,7 +426,7 @@ div.prixDiv div span{
 /*section galerie*/
 section#galerie{
     width: 100vw;
-    max-width:800px ;
+    max-width:1000px ;
     height: 600px;
     padding: 0px 100px;
     margin: 0 auto;
