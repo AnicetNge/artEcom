@@ -501,7 +501,7 @@ div#sliderctn{
 div#item{
     height: 100%;
     min-width: 200px;
-    background-image: url(../images/slider/art12.png);
+    background-image: url(../images/slider/art12_resized.png);
     background-position: center;
     background-size: cover;
 }
