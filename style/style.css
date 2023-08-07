@@ -350,7 +350,7 @@ section#animatedText p:first-child{
     font-family: 'la_violaregular';
     font-size: 180px;
     color: transparent;
-    background-image:url(../images/slider/art6.png) ;
+    background-image:url(../images/slider/art6_resized.png) ;
     background-size: cover;
     background-position: center;
     background-clip:text;
@@ -426,8 +426,8 @@ div.prixDiv div span{
 /*section galerie*/
 section#galerie{
     width: 100vw;
-    max-width:1400px ;
-    height: 800px;
+    max-width:800px ;
+    height: 600px;
     padding: 0px 100px;
     margin-top: 150px;
     display: flex;
